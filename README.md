@@ -2,9 +2,9 @@
 - 👀 I’m interested in diffrent it field
 - 🌱 I’m currently learning IT Engineering
 - 📫 How to reach me mail:- krhambaliya@gmail.com
-- Here is someof my work:-
-- https://krhambaliya.github.io/quizfun/
-- https://krhambaliya.github.io/About-Page-Example/
+- 📖Here is someof my work:-
+-    https://krhambaliya.github.io/quizfun/
+-    https://krhambaliya.github.io/About-Page-Example/
 - 
 
 <!---
